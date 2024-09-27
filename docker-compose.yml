@@ -2,3 +2,4 @@ include:
   - worker/docker-compose.yml
   - mocks/service1/docker-compose.yml
   - mocks/service2/docker-compose.yml
+  - mocks/service3/docker-compose.yml
