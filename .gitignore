@@ -1,5 +1,5 @@
 .DS_Store
-mocks/*
-common/*
-gateway/*
+mocks
+common
+gateway
 worker
