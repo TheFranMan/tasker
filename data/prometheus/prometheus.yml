@@ -5,4 +5,4 @@ scrape_configs:
   - job_name: "prometheus"
     scrape_interval: 5s
     static_configs:
-    - targets: ["localhost:3005"]
+    - targets: ["gateway:3005"]
